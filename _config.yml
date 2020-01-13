@@ -24,12 +24,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Landing page for the Iyer Family Site. More things coming in the future. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iyers.family" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jairamc
-# github_username:  jairamc
+twitter_username: jairamc
+github_username:  jairamc
 
 github: [metadata]
 # Build settings
 theme: jekyll-swiss
+theme_color: white
 plugins:
   - jekyll-feed
 
